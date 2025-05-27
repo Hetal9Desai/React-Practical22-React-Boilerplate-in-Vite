@@ -1,5 +1,32 @@
 {
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.0",
+    "vite": "^6.3.5",
     "vite-plugin-svgr": "^4.3.0"
+  },
+  "name": "react-practical22-react-boilerplate-in-vite",
+  "version": "1.0.0",
+  "description": "- created a React boilerplate from scratch by using Vite plugins. The project should support:",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hetal9Desai/React-Practical22-React-Boilerplate-in-Vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hetal9Desai/React-Practical22-React-Boilerplate-in-Vite/issues"
+  },
+  "homepage": "https://github.com/Hetal9Desai/React-Practical22-React-Boilerplate-in-Vite#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
